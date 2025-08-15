@@ -1,0 +1,61 @@
+body {
+  background-image: url("download.jpeg");
+background-repeat: repeat-x; 
+  background-size: cover;  
+   background-position: right top;
+     background-attachment: scroll;
+}
+
+.playwrite-vn-guides-regular {
+  font-family: "Playwrite VN Guides", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+#outer{
+  font-size: 25px;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+#inner{
+  font-size: 10px;
+  font-family: 'Times New Roman', Times, serif;
+}
+h4{
+  text-align: center;
+    font-family: cursive;
+text-transform: capitalize;
+}
+
+nav{
+ border: solid 10px rgb(227, 191, 9);
+ background-color: rgb(7, 7, 7);
+color: white;
+
+}
+
+div{
+height: 50px;
+}
+
+.un{
+ text-decoration-line : none;
+ color:black ;
+ color: white;
+}
+
+a{
+  /* padding:4px 0 0 0; */
+  border: hidden; 
+ margin: 80px;
+ 
+}
+/* h5{
+  margin: 100px;
+} */
+
+button{
+  color: white;
+  
+  background-color: yellow;
+}
